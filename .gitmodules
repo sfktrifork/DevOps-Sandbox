@@ -1,0 +1,3 @@
+[submodule "continuous_integration-tests"]
+	path = continuous_integration-tests
+	url = https://github.com/sfktrifork/continuous_integration_tests
